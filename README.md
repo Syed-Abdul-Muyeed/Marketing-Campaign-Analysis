@@ -52,4 +52,4 @@ Performed SQL-based analysis across four major areas:
 
 Feel free to explore the SQL script and reach out for feedback or collaboration!
 
-mail: syedabdulmuyeed18@gmail.com
+Mail: syedabdulmuyeed18@gmail.com
