@@ -34,6 +34,7 @@ Performed SQL-based analysis across four major areas:
 
 ## 🧪 Skills & Tools Used
 
+- Microsoft Excel
 - SQL Server (Microsoft-SQL)
 - Data aggregation and filtering
 - Joins, Grouping, Date functions
